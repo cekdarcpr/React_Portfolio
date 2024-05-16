@@ -1,4 +1,5 @@
 <div align="center">
+  
 
   <h2 align="center">Cekdar Capar - Personal portfolio</h2>
 
@@ -12,9 +13,13 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/Ekran Alıntısı.JPG "Desktop Demo")
+![Cekdar Portfolio Desktop Demo](./public/readme-images/Ekran%20Alıntısı.JPG "Desktop Demo")
 
+### Prerequisites
 
+Before you begin, ensure you have met the following requirements:
+
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
@@ -36,6 +41,3 @@ git clone https://github.com/cekdarcpr/React_Portfolio.git
 
 If you want to contact with me you can reach me at [X](https://www.x.com/cekdarcpr).
 
-### License
-
-This project is **free to use** and does not contains any license.
